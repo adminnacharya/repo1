@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 created file 7 on github on repo1
+=======
+file 7 created on local repo
+>>>>>>> 864abe9 (file7 added on LP)
